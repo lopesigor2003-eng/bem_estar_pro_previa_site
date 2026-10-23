@@ -1,0 +1,6 @@
+{
+  "name": "Bem Estar Pro - Academia Futurista",
+  "description": "Landing page institucional para a academia Bem Estar Pro em Santa Maria - RS com musculação, fisiculturismo, comodidades completas e atendimento de qualidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
